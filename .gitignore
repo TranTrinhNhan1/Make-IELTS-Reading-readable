@@ -1,0 +1,6 @@
+.venv/
+models/
+my_ielts_model/
+wandb/
+__pycache__/
+*.pyc
